@@ -12,14 +12,13 @@ header{
 .allImgs{
     max-width: 300px;
     max-height: 300px;
-
 }
+
 main{
     display: flex;
     flex-flow: column;
     text-align: center;
 }
-
 
 p{
     font-size:large;
@@ -31,9 +30,11 @@ p{
     font-weight: bolder;
     font-style: oblique;
 }
+
 footer{
     display: flex;
     justify-content: end;
     font-size: small;
     color: rgba(2, 2, 2, 0.633);
+    font-style: oblique;
 }
