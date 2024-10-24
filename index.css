@@ -22,6 +22,7 @@ p{
 }
 footer{
     display: flex;
-    justify-content: center;
-    font-size: x-small;
+    justify-content: end;
+    font-size: small;
+    color: rgba(2, 2, 2, 0.633);
 }
