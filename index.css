@@ -21,6 +21,7 @@ header{
 }
 main{
     display: flex;
+    flex-flow: column;
     text-align: center;
 }
 
