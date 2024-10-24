@@ -5,13 +5,8 @@ body{
 header{
     display: flex;
     flex-flow: column;
-    text-align: center;  
-}
-    
-
-.coverBook{
-    max-width: 1000px;
-    max-height: 800px;
+    text-align: center;
+    font-style: oblique;    
 }
 
 .allImgs{
@@ -25,13 +20,14 @@ main{
     text-align: center;
 }
 
+
 p{
     font-size:large;
     font-weight: 500;
 }
 
 .speak{
-    font-size: large;
+    font-size: x-large;
     font-weight: bolder;
     font-style: oblique;
 }
