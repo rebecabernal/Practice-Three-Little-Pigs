@@ -1,3 +1,7 @@
 body{
     background-color: rgb(193, 213, 154);
 }
+.allImgs{
+    max-width: 250px;
+    max-height: 250px;
+}
