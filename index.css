@@ -9,3 +9,19 @@ main{
     display: flex;
     text-align: center;
 }
+
+p{
+    font-size:large;
+    font-weight: 500;
+}
+
+.speak{
+    font-size: large;
+    font-weight: bolder;
+    font-style: oblique;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    font-size: x-small;
+}
